@@ -541,6 +541,7 @@ design/images/iZLhPTEcnPp8J6o2CqDItbFbI.png
 design/images/dA8PIkzlNMsySz50lGMg9L9iqQU.png
 design/images/RuzJrBOvHyR4JojwWOsNQehB4g.png
 design/images/RiRy7vWlUiC69QkLyeDwC9LhTDI.png
+design/images/OSdoxtwvV5z5SvKBesuSCENUbX4.png
 design/images/Mn0AWewKaAMdJ9bVSVSriN0obSg.png
 design/images/JvSpI02vmdPOSMLlSl1bTcY8zU.png
 design/images/JBOjx39Qw8ud2poy27AEM8CaJk.png
