@@ -106,6 +106,9 @@ design/images/HjLmyIKHgHj0pp3CisJxwitU74.png
 design/images/G1HcoR3mbgjNvOFuq6WBuJcL57I.png
 design/images/FEJA758yeay2leMrUFEU1KeAEHQ.png
 design/images/6KSyTtN7NDHwnXFgkskNZyiVws8.png
+code/fonts/style.css
+code/fonts/NudMotoya Maru W55 W6.ttf
+code/fonts/NudMotoya Maru W55 W5.ttf
 build/vendors.js
 build/framer.js
 index.html
