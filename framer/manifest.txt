@@ -173,6 +173,7 @@ design/images/ajPQNYykeVyBB0qKPY956YlShY.png
 design/images/aYxMdQT9cODoQ0q9W39yh05NHGw.png
 design/images/aHkBG7oDQUzLjkLDEnUE92R250.png
 design/images/Y2zcvFMDfdqqQvPZBcApWJr2o.png
+design/images/WqQj23xzwhjl6Nv7tU7yYMx2E0.png
 design/images/WG7AF5ogqdeNmm2ol09ktMfXaaY.png
 design/images/VrMc5OTHI1lMHEAfnoXFlE38iPk.png
 design/images/VbUQPNJ63hz9RfDtygWTwxX4U.png
