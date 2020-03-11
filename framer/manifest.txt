@@ -211,7 +211,7 @@ design/images/40w6D4vdPzd6iJhgtDnh5g8mWwU.png
 design/images/3oe3szVpXHAX5LuQbF7MDeJutE.png
 design/images/3Y8lT6kxlLWuUir0Uk9lQMMyWU.png
 design/images/0EHhGqlNjoBXWm5ybLq4kGd4kk.png
-code/fonts/style.css
+code/fonts/fonts.css
 code/fonts/NudMotoya Maru W55 W6.ttf
 code/fonts/NudMotoya Maru W55 W5.ttf
 build/vendors.js
