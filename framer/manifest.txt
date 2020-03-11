@@ -93,6 +93,24 @@ node_modules/@framer/krijn.loading-indicators/code/Dots.tsx
 node_modules/@framer/krijn.loading-indicators/code/Circular.tsx
 node_modules/@framer/krijn.loading-indicators/build/index.js
 node_modules/@framer/krijn.loading-indicators/README.md
+node_modules/@framer/jordanframer.font-files/tsconfig.json
+node_modules/@framer/jordanframer.font-files/treeUpdates.json
+node_modules/@framer/jordanframer.font-files/server.log
+node_modules/@framer/jordanframer.font-files/package.json
+node_modules/@framer/jordanframer.font-files/metadata/icon.png
+node_modules/@framer/jordanframer.font-files/metadata/artwork.png
+node_modules/@framer/jordanframer.font-files/dist/index.js
+node_modules/@framer/jordanframer.font-files/design/document.json
+node_modules/@framer/jordanframer.font-files/design/assets/RBNo2.1a-Medium.ttf
+node_modules/@framer/jordanframer.font-files/design/assets/RBNo2.1a-Light.ttf
+node_modules/@framer/jordanframer.font-files/design/assets/Gotham-Ultra.otf
+node_modules/@framer/jordanframer.font-files/design/assets/Gotham-Light.otf
+node_modules/@framer/jordanframer.font-files/design/assets/Gotham-Book.otf
+node_modules/@framer/jordanframer.font-files/design/assets/Gotham-Bold.otf
+node_modules/@framer/jordanframer.font-files/code/canvas.tsx
+node_modules/@framer/jordanframer.font-files/code/Loader.tsx
+node_modules/@framer/jordanframer.font-files/code/File.tsx
+node_modules/@framer/jordanframer.font-files/README.md
 node_modules/@framer/guischneider.page-indicators/tsconfig.json
 node_modules/@framer/guischneider.page-indicators/package.json
 node_modules/@framer/guischneider.page-indicators/metadata/icon.png
@@ -211,6 +229,7 @@ design/images/40w6D4vdPzd6iJhgtDnh5g8mWwU.png
 design/images/3oe3szVpXHAX5LuQbF7MDeJutE.png
 design/images/3Y8lT6kxlLWuUir0Uk9lQMMyWU.png
 design/images/0EHhGqlNjoBXWm5ybLq4kGd4kk.png
+design/assets/NudMotoya Maru W55 W5.ttf
 code/fonts/fonts.css
 code/fonts/NudMotoya Maru W55 W6.ttf
 code/fonts/NudMotoya Maru W55 W5.ttf
