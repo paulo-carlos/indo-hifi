@@ -120,6 +120,17 @@ node_modules/@framer/guischneider.page-indicators/design/document.json
 node_modules/@framer/guischneider.page-indicators/code/canvas.tsx
 node_modules/@framer/guischneider.page-indicators/code/Page_With_Indicators.tsx
 node_modules/@framer/guischneider.page-indicators/README.md
+node_modules/@framer/derlukas.scroll-away/tsconfig.json
+node_modules/@framer/derlukas.scroll-away/package.json
+node_modules/@framer/derlukas.scroll-away/metadata/icon.png
+node_modules/@framer/derlukas.scroll-away/metadata/artwork.png
+node_modules/@framer/derlukas.scroll-away/dist/index.js
+node_modules/@framer/derlukas.scroll-away/design/document.json
+node_modules/@framer/derlukas.scroll-away/code/canvas.tsx
+node_modules/@framer/derlukas.scroll-away/code/ScrollAway.tsx
+node_modules/@framer/derlukas.scroll-away/code/App.tsx
+node_modules/@framer/derlukas.scroll-away/build/index.js
+node_modules/@framer/derlukas.scroll-away/README.md
 node_modules/@framer/ctruansky.long-press/tsconfig.json
 node_modules/@framer/ctruansky.long-press/package.json
 node_modules/@framer/ctruansky.long-press/metadata/icon.png
@@ -190,6 +201,7 @@ node_modules/@framer/bbertola.animated-numbers/code/Animated_Numbers.tsx
 node_modules/@framer/bbertola.animated-numbers/README.md
 design/images/zi5GbjT1ndAhWJ8PPrVRSjY42uw.png
 design/images/z7j5hpxhwxw13Ud5KI2HUXl6p1M.png
+design/images/yycGDBW6UQpzU7q9hhoMbL99RF4.png
 design/images/wlOk7Q8J0x6U1dN1P2xQcZepONc.png
 design/images/vpE5wFM0KC0XHd6tOruLObwME.png
 design/images/tuzzFWgLKBxSNMBMpKTZ0Hco.png
@@ -207,6 +219,7 @@ design/images/dA8PIkzlNMsySz50lGMg9L9iqQU.png
 design/images/atAuuoW3ehQtN6VHaiFLtxoobE.png
 design/images/aYxMdQT9cODoQ0q9W39yh05NHGw.png
 design/images/aHkBG7oDQUzLjkLDEnUE92R250.png
+design/images/Zyv1yjuxUtwU8UbycI87dJmFEY.png
 design/images/Y2zcvFMDfdqqQvPZBcApWJr2o.png
 design/images/WqQj23xzwhjl6Nv7tU7yYMx2E0.png
 design/images/WG7AF5ogqdeNmm2ol09ktMfXaaY.png
@@ -236,6 +249,7 @@ design/images/6D80PLSjCGfgbjPUfzYfqE1RWM.png
 design/images/60gi9SJ4e9faSfTGHIegon1a7tM.png
 design/images/40w6D4vdPzd6iJhgtDnh5g8mWwU.png
 design/images/3Y8lT6kxlLWuUir0Uk9lQMMyWU.png
+design/images/30M0yWRnOzSWeYnkQDmy81GNmE.png
 design/images/0EHhGqlNjoBXWm5ybLq4kGd4kk.png
 design/assets/NudMotoya Maru W55 W5.ttf
 code/fonts/fonts.css
