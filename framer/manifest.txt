@@ -208,6 +208,8 @@ design/images/tuzzFWgLKBxSNMBMpKTZ0Hco.png
 design/images/tMBUSjFajvIMQyTnnKkhPhJz55U.png
 design/images/tCzELdfCjc5J3IxMZ0JQdlUI5UU.png
 design/images/njxNOM8odBPdKc7SEL2NgmEFwfE.png
+design/images/nPDa4jpo5UVpluFAuWRhp1rAPDg.png
+design/images/luvaaPTIJr721agyuOuDQp99hl0.png
 design/images/ljNwU2k5Vg4ccuz0Y8NUN9Qtn8.png
 design/images/jsMY6hr6GTQ881t2dZYzSo2BhqU.png
 design/images/hxRJUgDlCSmNQjCdQSfhtIcR0U.png
@@ -243,6 +245,7 @@ design/images/FyEnbDaDuBAyCz1xyzXaPruQyOI.png
 design/images/FMpp65anQTd3GjNO3yCY9ZtPM.png
 design/images/FEJA758yeay2leMrUFEU1KeAEHQ.png
 design/images/E2NVgCLON5E9oDiZJwpvC1PL3M.png
+design/images/DWw4GN380Ac5z4KreTxBDOcUU.png
 design/images/D3o8STntXhoeQT7RNZpA7ncR8.png
 design/images/9yyhXvXHp66Os4bHwaC1rgZgXTM.png
 design/images/9t4HBC5ftgjSXzQ8Qgel9J2URZE.png
