@@ -251,6 +251,7 @@ node_modules/@framer/bbertola.animated-numbers/design/document.json
 node_modules/@framer/bbertola.animated-numbers/code/canvas.tsx
 node_modules/@framer/bbertola.animated-numbers/code/Animated_Numbers.tsx
 node_modules/@framer/bbertola.animated-numbers/README.md
+design/images/zljUMxbRrXFjBLPQqu4h7be1tHY.png
 design/images/zi5GbjT1ndAhWJ8PPrVRSjY42uw.png
 design/images/z7j5hpxhwxw13Ud5KI2HUXl6p1M.png
 design/images/yycGDBW6UQpzU7q9hhoMbL99RF4.png
@@ -273,12 +274,14 @@ design/images/atAuuoW3ehQtN6VHaiFLtxoobE.png
 design/images/aYxMdQT9cODoQ0q9W39yh05NHGw.png
 design/images/aHkBG7oDQUzLjkLDEnUE92R250.png
 design/images/Y2zcvFMDfdqqQvPZBcApWJr2o.png
+design/images/XEp9JvZ8aieHRuDYUtblUiV9Lk.png
 design/images/WqQj23xzwhjl6Nv7tU7yYMx2E0.png
 design/images/WG7AF5ogqdeNmm2ol09ktMfXaaY.png
 design/images/VrMc5OTHI1lMHEAfnoXFlE38iPk.png
 design/images/VbUQPNJ63hz9RfDtygWTwxX4U.png
 design/images/VYLA7ziPet7N38tpBBrIfrbSA.png
 design/images/TYBoR32WnAbmZpUpnagrSFfNuk.png
+design/images/TMKWw7Qkp1P2Er6B4WX3vLdwN9s.png
 design/images/TAGaoRnpHwU3NsSEelMk46nsgeI.png
 design/images/RRMTfoHKv29hS97ykY5Qj9qdCo.png
 design/images/RL0XilebapndjR1xdBEOHSmXmxI.png
@@ -300,6 +303,7 @@ design/images/DWw4GN380Ac5z4KreTxBDOcUU.png
 design/images/D3o8STntXhoeQT7RNZpA7ncR8.png
 design/images/9yyhXvXHp66Os4bHwaC1rgZgXTM.png
 design/images/9t4HBC5ftgjSXzQ8Qgel9J2URZE.png
+design/images/8MJv1iZUco6pa0smYdb3hACJlQ.png
 design/images/6D80PLSjCGfgbjPUfzYfqE1RWM.png
 design/images/3Y8lT6kxlLWuUir0Uk9lQMMyWU.png
 design/images/30M0yWRnOzSWeYnkQDmy81GNmE.png
